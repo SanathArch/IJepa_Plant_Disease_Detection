@@ -1,0 +1,149 @@
+{
+  "bacterial_spot": {
+    "precision": 0.9848942597889759,
+    "recall": 0.9080779944036746,
+    "f1": 0.9449275312127284,
+    "n_test": 359,
+    "auto_accept_threshold": 0.5220289875149087
+  },
+  "black_rot": {
+    "precision": 0.9090909082644627,
+    "recall": 0.6666666662222221,
+    "f1": 0.7692307637573965,
+    "n_test": 15,
+    "auto_accept_threshold": 0.5923076944970413
+  },
+  "citrus_greening": {
+    "precision": 0.9999999999839229,
+    "recall": 0.9999999999839229,
+    "f1": 0.9999999949839229,
+    "n_test": 622,
+    "auto_accept_threshold": 0.5000000020064308
+  },
+  "complex": {
+    "precision": 0.6755555555255308,
+    "recall": 0.684684684653843,
+    "f1": 0.6800894804284091,
+    "n_test": 222,
+    "auto_accept_threshold": 0.6279642078286364
+  },
+  "early_blight": {
+    "precision": 0.9798994974381959,
+    "recall": 0.8944954128030048,
+    "f1": 0.9352517935266751,
+    "n_test": 218,
+    "auto_accept_threshold": 0.5258992825893299
+  },
+  "frog_eye_leaf_spot": {
+    "precision": 0.8261964735308263,
+    "recall": 0.7305122494269374,
+    "f1": 0.7754137065844833,
+    "n_test": 449,
+    "auto_accept_threshold": 0.5898345173662067
+  },
+  "gray_leaf_spot": {
+    "precision": 0.9999999900000002,
+    "recall": 0.249999999375,
+    "f1": 0.3999999952,
+    "n_test": 4,
+    "auto_accept_threshold": 0.74000000192
+  },
+  "healthy": {
+    "precision": 0.9498575498521377,
+    "recall": 0.9536613272256657,
+    "f1": 0.9517556330191366,
+    "n_test": 1748,
+    "auto_accept_threshold": 0.5192977467923454
+  },
+  "late_blight": {
+    "precision": 0.9752650176333828,
+    "recall": 0.8874598070454193,
+    "f1": 0.9292929242727499,
+    "n_test": 311,
+    "auto_accept_threshold": 0.5282828302909001
+  },
+  "leaf_blight": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "n_test": 12,
+    "auto_accept_threshold": 0.9
+  },
+  "leaf_mold": {
+    "precision": 0.9702970296069013,
+    "recall": 0.8235294116955018,
+    "f1": 0.8909090858615704,
+    "n_test": 119,
+    "auto_accept_threshold": 0.5436363656553719
+  },
+  "leaf_spot": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "n_test": 11,
+    "auto_accept_threshold": 0.9
+  },
+  "mosaic_virus": {
+    "precision": 0.8499999997875,
+    "recall": 0.7234042551652331,
+    "f1": 0.7816091902549874,
+    "n_test": 47,
+    "auto_accept_threshold": 0.5873563238980051
+  },
+  "multiple_diseases": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "n_test": 14,
+    "auto_accept_threshold": 0.9
+  },
+  "powdery_mildew": {
+    "precision": 0.9692307692009468,
+    "recall": 0.926470588208045,
+    "f1": 0.9473684160266833,
+    "n_test": 340,
+    "auto_accept_threshold": 0.5210526335893266
+  },
+  "rust": {
+    "precision": 0.9137254901602461,
+    "recall": 0.8321428571131377,
+    "f1": 0.8710280323615339,
+    "n_test": 280,
+    "auto_accept_threshold": 0.5515887870553864
+  },
+  "scab": {
+    "precision": 0.8952042628615416,
+    "recall": 0.7706422018230789,
+    "f1": 0.8282662234449112,
+    "n_test": 654,
+    "auto_accept_threshold": 0.5686935106220355
+  },
+  "septoria_leaf_spot": {
+    "precision": 0.9494382021938518,
+    "recall": 0.8492462311131032,
+    "f1": 0.8965517191058827,
+    "n_test": 199,
+    "auto_accept_threshold": 0.5413793123576469
+  },
+  "spider_mites": {
+    "precision": 0.9753086419151044,
+    "recall": 0.9634146340875966,
+    "f1": 0.9693251483149535,
+    "n_test": 164,
+    "auto_accept_threshold": 0.5122699406740185
+  },
+  "target_spot": {
+    "precision": 0.9794520547274347,
+    "recall": 0.922580645101769,
+    "f1": 0.9501661078981468,
+    "n_test": 155,
+    "auto_accept_threshold": 0.5199335568407413
+  },
+  "yellow_leaf_curl_virus": {
+    "precision": 0.9848942597889759,
+    "recall": 0.9080779944036746,
+    "f1": 0.9449275312127284,
+    "n_test": 359,
+    "auto_accept_threshold": 0.5220289875149087
+  }
+}

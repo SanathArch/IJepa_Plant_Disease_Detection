@@ -1,0 +1,23 @@
+[
+  "bacterial_spot",
+  "black_rot",
+  "citrus_greening",
+  "complex",
+  "early_blight",
+  "frog_eye_leaf_spot",
+  "gray_leaf_spot",
+  "healthy",
+  "late_blight",
+  "leaf_blight",
+  "leaf_mold",
+  "leaf_spot",
+  "mosaic_virus",
+  "multiple_diseases",
+  "powdery_mildew",
+  "rust",
+  "scab",
+  "septoria_leaf_spot",
+  "spider_mites",
+  "target_spot",
+  "yellow_leaf_curl_virus"
+]

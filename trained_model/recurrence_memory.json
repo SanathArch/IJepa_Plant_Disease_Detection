@@ -1,0 +1,23 @@
+{
+  "bacterial_spot": 2821,
+  "healthy": 16081,
+  "early_blight": 1796,
+  "late_blight": 2826,
+  "leaf_mold": 990,
+  "septoria_leaf_spot": 1776,
+  "spider_mites": 1336,
+  "target_spot": 1124,
+  "yellow_leaf_curl_virus": 2712,
+  "mosaic_virus": 472,
+  "citrus_greening": 4349,
+  "powdery_mildew": 2678,
+  "black_rot": 188,
+  "leaf_spot": 254,
+  "leaf_blight": 303,
+  "gray_leaf_spot": 67,
+  "scab": 5160,
+  "rust": 2421,
+  "multiple_diseases": 66,
+  "frog_eye_leaf_spot": 3467,
+  "complex": 1724
+}
